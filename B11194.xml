@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iane Anger her Protection for vvomen To defend them against the scandalous reportes of a late surfeiting louer, and all otherlike Venerians that complaine so to bee ouercloyed with womens kindnesse. Written by Ia: A. Gent.</title>
+            <title>Protection for vvomen</title>
+            <author>Anger, Jane, fl. 1589.</author>
+         </titleStmt>
+         <extent>Approx. 46KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11194</idno><idno type="EEBO-CITATION">99840140</idno>
+  <idno type="VID">176417</idno>
+  <idno type="EEBO-PROQUEST">2248572296</idno>
+  <idno type="STC">STC 644</idno>
+  <idno type="STC">ESTC S104402</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99840140e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11194)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176417)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 165:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iane Anger her Protection for vvomen To defend them against the scandalous reportes of a late surfeiting louer, and all otherlike Venerians that complaine so to bee ouercloyed with womens kindnesse. Written by Ia: A. Gent.</title>
+                  <title>Protection for vvomen</title>
+                  <author>Anger, Jane, fl. 1589.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Iones, and Thomas Orwin,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1589.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Ia: A. = Jane Anger.</note>
+                  <note>Signatures: [A]²  B-C⁴ D² .</note>
+                  <note>Running title reads: A protection for vvomen.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Women --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Susie Lorand </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176417:1"/>
+            <pb facs="tcp:176417:1"/>
+            <p>IANE ANGER her Protection for VVomen.</p>
+            <p>To defend them against the SCANDALOVS REPORTES OF a late Surfeiting Louer, and all other like Venerians that complaine so to bee ouercloyed with womens kindnesse.</p>
+            <p>
+               <hi>Written by</hi> Ia: A. <hi>Gent.</hi>
+            </p>
+            <p>At London Printed by Richard Iones, and Thomas Orwin. 1589.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:176417:2"/>
+            <pb facs="tcp:176417:2"/>
+            <head>To the Gentlewomen of ENGLAND, health.</head>
+            <p>GEntlewomē, though it is to be feared that your setled wits wil aduisedly cōdemne y<seg rend="sup">t</seg>, which my cholloricke vaine hath rashly set downe, and so perchance, ANGER shal reape anger for not agreeing with diseased persons: Yet (if with indiffe<g ref="char:EOLhyphen"/>rencie of censure, you consider of the head of the qua<g ref="char:EOLhyphen"/>rell) I hope you will rather shew your selues defen<g ref="char:EOLhyphen"/>dantes of the defenders title, then complainantes of the plaintifes wrong. I doubt iudgement before trial, which were iniurious to the Law, and I confesse that my rashnesse deserueth no lesse, which was a fit of my extremitie. I will not vrge reasons because your wits are sharp and will soone conceiue my meaning, ne will I be tedious least I prooue too too troublesome, not ouer darke in my writing, for feare of the name of a Ridler. But (in a worde) for my presumption I craue pardon, because it was ANGER that did write it: committing your protection, and my selfe, to the protection of your selues, and the iudgement of the cause to the censures of your iust mindes.</p>
+            <closer>
+               <signed>Yours euer at commandement, Ia: A.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:176417:3"/>
+            <head>To all VVomen in gene<g ref="char:EOLhyphen"/>nerall, and gentle Reader whatsoeuer.</head>
+            <p>
+               <seg rend="decorInit">F</seg>IE on the falshoode of men, whose minds goe oft a madding, &amp; whose tongues can not so soone bee wag<g ref="char:EOLhyphen"/>ging, but straight they fal a railing Was there euer any so abused, so slaundered, so railed vpō, or so wic<g ref="char:EOLhyphen"/>kedly handeled vndeseruedly, as are we women? Will the Gods permit it, the Goddesses stay theyr punishing iudgments, and we ourselues not pur<g ref="char:EOLhyphen"/>sue their vndoinges for such diuelish practises? O <hi>Paules steeple</hi> and <hi>Charing Crosse.</hi> A halter hold al such persons. Let the streames of the channels in <hi>London</hi> streates run so swiftly, as they may be a<g ref="char:EOLhyphen"/>ble alone to carrie them from that sanctuarie. Let the stones be as Ice, the soales of their shooes as Glasse, the waies steep like <hi>Aetna,</hi> &amp; euery blast a Whyrl-wind puffed out of <hi>Boreas</hi> his long throat, that these may hasten their passage to the Deuils hauen. Shal Surfeiters raile on our kindnes, you stand stil &amp; say nought, and shall not <hi>Anger</hi> stretch the vaines of her braines, the stringes of her sin<g ref="char:EOLhyphen"/>gers, and the listes of her modestie, to answere their Surfeitings? Yes truely. And herein I con<g ref="char:EOLhyphen"/>sure all you to aide and assist me in defence of my willingnes, which shall make me rest at your com<g ref="char:EOLunhyphen"/>maundes. Fare you well.</p>
+            <closer>
+               <signed>Your friend. Ia. A.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:176417:3"/>
+            <head>A Protection for Women. &amp;c.</head>
+            <p>THE desire that euery man hath to shewe his fiue vaine in writing is vnspeakable, and their mindes are so cari<g ref="char:EOLhyphen"/>ed away with the manner, as no care at all is had of the matter: they run so into Rethorick, as often times they ouerrun the boundes of their own wits, and goe they knowe not whether. If they haue stretched their inuention so hard on a last, as it is at a stand, there remaines but one help, which is, to write of vs womē: If they may once encroch so far into our presence, as they may but see the lyning of our outermost gar<g ref="char:EOLhyphen"/>ment, they straight think that <hi>Apollo</hi> honours them, in yeel<g ref="char:EOLhyphen"/>ding so good a supply to refresh their sore ouerburdened heads, through studying for matters to indite off. And therfore y<seg rend="sup">t</seg> the God may see how thankfully they receiue his liberality, (their wits whetted, and their braines almost broken with botching his bountie) they fall straight to dispraising and slaundering our silly sex. But iudge what the cause should be, of this their so great malice towards simple women. Doubtles the weak<g ref="char:EOLhyphen"/>nesse of our wits, and our honest bashfulnesse, by reason wher<g ref="char:EOLhyphen"/>of they suppose that there is not one amongst vs who can, or dare reprooue their slanders and false reproches: their slaunde<g ref="char:EOLhyphen"/>rous tongues are so short, and the time wherin they haue laui<g ref="char:EOLhyphen"/>shed out their wordes freely, hath bene so long, that they know we cannot catch hold of them to pull them out, and they think we wil not write to reprooue their lying lips: which conceites haue already made them cockes and wolde (should they not be crauened) make themselues among themselues bee thought to be of the game. They haue bene so daintely fed with our good natures, that like iades (their stomackes are grown so quesse) they surfeit of our kindnes. If we wil not suffer them to smell on our smockes, they will snatch at our peticotes: but if our honest natures cannot away with that vnciuil kinde of iesting
+<pb facs="tcp:176417:4"/> then we are coy: yet if we beare with their rudenes, and be som what modestly familiar with them, they will straight make matter of nothing, blazing abroad that they haue surfeited with loue, and then their wits must be showen in celling the maner how.</p>
+            <p>Among the innumerable number of bookes to that purpose, of late (vnlooked for) the newe surfeit of an olde Louer (sent a<g ref="char:EOLhyphen"/>broad to warne those which are of his own kind, from catching the like disease) came by chance to my handes: which, because aswell women as men are desirous of nouelties, I willinglie read ouer: neither did the ending therof lesse please me then y<seg rend="sup">e</seg> beginning, for I was so carried away with the conceit of the Gent. as that I was quite out of the booke before I thought I had bene in the middest thereof: So pithie were his senten<g ref="char:EOLhyphen"/>ces, so pure his wordes, and so pleasing his stile. The chiefe matters therein contained were of two sortes: the one in the dis<g ref="char:EOLunhyphen"/>praise of mans follie, and the other, inuectiue against our sex, their folly proceeding of their own flatterie ioined w<seg rend="sup">t</seg> fancie, &amp; our faultes are through our follie, with which is some faith.</p>
+            <p>The bounteous wordes written ouer the lasciuious kinge <hi>Ninus</hi> his head, set down in this olde Louer his <hi>Surfeit</hi> to be these <hi>(Demaund and haue:)</hi> do plainly shew the flatterie of mens false heartes: for knowing that we women, are weake vessels soone ouerwhelmed, and that <hi>Bountie</hi> bendeth euerie thing to his becke, they take him for their instrument (too too strong) to assay the pulling downe of vs so weake. If we stand fast, they striue: if we totter (though but a little) they will ne<g ref="char:EOLhyphen"/>uer leaue til they haue ouerturned vs. <hi>Semeramis</hi> demaun<g ref="char:EOLhyphen"/>ded: and who would not if courtesie should be so fréely offered: <hi>Ninus</hi> gaue all to his kingdome, and that at the last: the more foole he: and of him this shal be my censure (agreeing with the verdict of the surfaiting louer, saue onely that he hath mispla<g ref="char:EOLhyphen"/>ced and mistaken certaine wordes) in this maner.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="poem">
+                        <lg>
+                           <l>Fooles force such flatterie, and men of dull conceite:</l>
+                           <l>Such phrensie oft doth hant the wife (Nurse Wisedom once reiected)</l>
+                           <l>Though loue be sure and firme: yet Lust fraught with deceit.</l>
+                           <l>And mens fair wordes do worke great wo, vnlesse they be suspected.</l>
+                           <pb facs="tcp:176417:4"/>
+                           <l>Then foolish NINVS had but due, if I his iudge might be,</l>
+                           <l>Vilde are mens lustes, false are their lips, besmer'd with flatterie:</l>
+                           <l>Himselfe and Crowne he brought to thrall which passed all the rest</l>
+                           <l>His foot-stoole match he made his head, and therefore was a beast.</l>
+                           <l>Then all such beastes such beastly endes, I wish the Gods to send,</l>
+                           <l>And worser too if woorse may be: like his my censure end.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The slouthful king <hi>Sardanapalus</hi> with his beastlike and licen<g ref="char:EOLunhyphen"/>tious deedes are so plainly disciphered, and his had end well deserued, so truly set down in that Surfeit, as both our iudg<g ref="char:EOLhyphen"/>ments agree in one.</p>
+            <p>But that <hi>Menalaus</hi> was serued with such sauce it is a won<g ref="char:EOLhyphen"/>der: yet truely their Sex are so like to Buls, that it is no mar<g ref="char:EOLhyphen"/>uell though the Gods do metamorphoze some of them, to giue warning to the rest, if they coulde thinke so of it, for some of them wil follow the smocke as Tom Bull will runne after a towne Cowe. But, least they should running slip and breake their pates, the Gods prouident of their welfare, set a paire of tooters on their foreheades, to keepe it from the ground, for doubtles so stood the case with <hi>Menalus,</hi> hee running abroade as a Smel-smocke, got the habit of a Coockold, of whom thus shall go my verdicte.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="poem">
+                        <lg>
+                           <l>The Gods most iust doe iustly punish sinne</l>
+                           <l>with those same plagues which men do most forlorn,</l>
+                           <l>If filthy lust in men to spring begin,</l>
+                           <l>That monstrous sin he plagueth with the horne.</l>
+                           <l>their wisdome great wherby they men forewarne,</l>
+                           <l>to shun vild lust, lest they wil weare the horne.</l>
+                        </lg>
+                        <lg>
+                           <l>Deceitfull men with guile must be repaid,</l>
+                           <l>And blowes for blowes who renders not againe.</l>
+                           <l>The man that is of Coockolds lot affraid,</l>
+                           <l>From Lechery he ought for to refraine.</l>
+                           <l>Els shall he haue the plague he doth forlorne:</l>
+                           <l>and ought (perforce constrain'd to wear the horne.</l>
+                        </lg>
+                        <lg>
+                           <pb facs="tcp:176417:5"/>
+                           <l>The Greeke, Acteons badge did weare, they say,</l>
+                           <l>And worthy too, he loued the smocke so wel,</l>
+                           <l>That euerie man may be a Bull I pray,</l>
+                           <l>Which loues to follow lust (his game) so well.</l>
+                           <l>For by that meanes poore women shall haue peace</l>
+                           <l>and want these iarres. Thus doth my censure cease.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The greatest fault that doth remaine in vs women is, that we are too credulous, for could we flatter as they can dissem<g ref="char:EOLhyphen"/>ble, and vse our wittes well, as they can their tongues ill, then neuer would any of them complaine of surfeiting. But if we women be so so perillous cattell as they terme vs, I maruell that the Gods made not <hi>Fidelitie</hi> as well a man, as they cre<g ref="char:EOLhyphen"/>ated her a woman, and all the morall vertues of their mascu<g ref="char:EOLhyphen"/>line sex, as of the feminine kinde, except their Deities knewe that there was some souerainty in vs women, which could not be in them men. But least some snatching fellow should catch me before I fall to the grounde, (and say they will adorne my head with a feather, affirming that I rome beyond reason, see<g ref="char:EOLhyphen"/>ing it is most manifest that the man is the head of the woman, and that therfore we ought to be guided by them,) I preuent them with this answere. The Gods knowing that the mindes of mankind would be aspiring, and hauing throughly viewed the wonderfull vertues wherewith women are inriched, least they should prouoke vs to pride, and so confound vs with <hi>Lu<g ref="char:EOLhyphen"/>cifer,</hi> they bestowed the supremacy ouer vs to mā, that of that Cockscombe he might onely boast, and therfore for Gods sake let them keepe it. But wee returne to the Surfeit.</p>
+            <p>Hauing made a long discourse of the Gods censure concer<g ref="char:EOLhyphen"/>ning loue, he leaues thē (&amp; I thē with him) and comes to the principall obiect and generall foundation of loue, which he af<g ref="char:EOLhyphen"/>firmeth to be grounded on women: &amp; now beginning to search his scroule, wherein are tauntes against vs, he beginneth and saieth that we allure their hearts to vs: wherin he saieth more truly then he is aware off: for we woo them with our vertues, &amp; they wed vs with vanities, and men being of wit sufficient
+<pb facs="tcp:176417:5"/> to cōsider of y<seg rend="sup">e</seg> vertues which are in vs women, are rauished w<seg rend="sup">t</seg> y<seg rend="sup">e</seg> delight of those dainties, which allure &amp; draw the sences of them to serue vs, wherby they become rauenous haukes, who doe not onely seize vpon vs, but deuour vs. Our good toward them is the destruction of our selues, we being wel formed, are by them fouly deformed: of our true meaning they make mockes, rewarding our louing follies with disdainful floutes: we are the griefe of man, in that wee take all the griefe from man: we languish when they laugh, we lie sighing when they sit singing, and sit sobbing when they lie slugging and slee<g ref="char:EOLhyphen"/>ping. <hi>Mulier est hominis confusio,</hi> because her kinde heart cannot so sharply reprooue their franticke fits, as those madde frensies deserue. <hi>Aut amat, aut odit, non est in tertio:</hi> she lo<g ref="char:EOLhyphen"/>ueth good thinges, and hateth that which is euill: shee loueth iustice and hateth iniquitie: she loueth trueth and true dealing, and hateth lies and falshood: she loueth man for his vertues, &amp; hateth him for his vices: to be short, there is no <hi>Medium</hi> be<g ref="char:EOLhyphen"/>tween good and bad, and therefore she can be, <hi>In nullo tertio. Plato</hi> his answere to a Viccar of fooles which asked the que<g ref="char:EOLhyphen"/>stion, being, that he knew not whether to place women among those creatures which were reasonable or vnreasonable, did as much beautifie his deuine knowledge, as all the bookes he did write: for knowing that women are the greatest help that men haue, without whose aide &amp; assistance it is as possible for them to liue, as if they wanted meat, drinke, clothing, or any other necessary: and knowing also that euen then in his age, much more in those ages which shold after follow, men were grown to be so vnreasonable, as he could not discide whether men or bruite beastes were more reasonable: their eies are so curious, as be not all women equall with <hi>Venus</hi> for beautie, they can<g ref="char:EOLhyphen"/>not abide the sight of them: their stomackes so queasie, as doe they tast but twise of one dish they straight surfeit, and needes must a new diet be prouided for them. Wee are contrary to men, because they are contrarie to that which is good: because they are spurblind, they cannot see into our natures, and we too well (though we had but halfe an eie) into their conditions, because they are so bad: our behauiours alter daily, because
+<pb facs="tcp:176417:6"/> mens vertues decay hourely. If <hi>Hesiodus</hi> had with equity as well looked into the life of man, as he did presisely search out the qualities of vs women, he would haue said, that if a woman trust vnto a man, it shal fare as well with her, as if she had a waight of a thousand pounds tied about her neck, and then cast into the bottomles seas: for by men are we confounded though they by vs are sometimes crossed. Our tongues are light, be<g ref="char:EOLhyphen"/>cause earnest in reproouing mens filthy vices, and our good counsel is termed nipping iniurie, in that it accordes not with their foolish fancies. Our boldnesse rash, for giuing Noddies nipping answeres, our dispositions naughtie, for not agreeing with their vilde mindes, and our furie dangerous, because it will not beare with their knauish behauiours. If our frownes be so terrible, and our anger so deadly, men are too foolish in of<g ref="char:EOLhyphen"/>fering occasions of hatred, which shunned, a terrible death is preuented. There is a continuall deadly hatred betweene the wilde boare and tame hounds, I would there were the like be<g ref="char:EOLhyphen"/>twixt women and men vnles they amend their maners, for so strength should predominate, where now flattery and dissimu<g ref="char:EOLhyphen"/>lation hath the vpper hand. The Lion rageth when he is hun<g ref="char:EOLhyphen"/>grie, but man raileth when he is glutted. The Tyger is rob<g ref="char:EOLhyphen"/>bed of her young ones, when she is ranging abroad, but men rob women of their honour vndeseruedlye vnder their noses. The Viper stormeth when his taile is trodden on, &amp; may not we fret when al our bodie is a footstoole to their vild lust: their vnreasonable mindes which knowe not what reason is, make them nothing better then bruit beastes. But let vs graunt that <hi>Cletemnestra, Ariadna, Dalila,</hi> and <hi>Iesabell</hi> were spotted with crimes: shal not <hi>Nero</hi> with others innumerable, &amp; there<g ref="char:EOLhyphen"/>fore vnnameable ioine handes with them and lead the daunce? yet it greeues me that faithful <hi>Deianira</hi> should be falsely accu<g ref="char:EOLunhyphen"/>sed of her husband <hi>Hercules</hi> death, séeing she was vtterly guilt<g ref="char:EOLhyphen"/>lesse (euen of thought) concerning any such crime, for had not the Centaures falshood exceeded the simplicitie of her too too credulous heart, <hi>Hercules</hi> had not died so cruelly tormented, nor the monsters treason bene so vnhappely exeented. But we must beare with these faulces, and with grrater then these,
+<pb facs="tcp:176417:6"/> especiallye seeing that hee which set it downe for a <hi>Maxime</hi> was driuen into a mad mood through a surfeit, which made him run quite besides his booke, and mistake his case: for wher he accused <hi>Deianira</hi> falsely, he woulde haue had condemned <hi>Hercules</hi> deseruedly.</p>
+            <p>
+               <hi>Marius</hi> daughter indued with so many excellent vertues, was too good either for <hi>Metellus,</hi> or any mā liuing: for thogh peraduenture she had some smal fault, yet doubtles he had de<g ref="char:EOLhyphen"/>testable crimes. On the same place where <hi>Doun</hi> is on the hens head, the <hi>Combe</hi> grows on the Cocks pate. If women breede woe to men, they bring care, pouertie, griefe, and conti<g ref="char:EOLhyphen"/>nual feare to women, which if they be not woes they are wor<g ref="char:EOLhyphen"/>ser.</p>
+            <p>
+               <hi>Euthydomus</hi> made sixe kinde of women, and I will ap<g ref="char:EOLhyphen"/>prooue that there are so many of men: which be, poore and rich, bad and good, foule and faire. The great Patrimonies that wealthy men leaue their children after their death, make them rich: but dice and other marthriftes happening into their companies, neuer leaue them til they bee at the beggers bush, wher I can assure you they become poore. Great eaters bee<g ref="char:EOLhyphen"/>ing kept at a slender diet neuer distemper their bodies but re<g ref="char:EOLhyphen"/>maine in good case: but afterwards once turned foorth to <hi>Li<g ref="char:EOLhyphen"/>berties</hi> pasture, they graze so greedilie, as they become surfei<g ref="char:EOLhyphen"/>ting iades, and alwaies after are good for nothing. There are men which are snout-faire, whose faces looke like a creame<g ref="char:EOLhyphen"/>pot, and yet those not the faire men I speake of, but I meane those whose conditions are free from knauerie, and I tearme those foule, that haue neither ciuilitie nor honestie: of these sorts there are none good, none rich or faire long. But if wee doe desire to haue them good, we must alwaies tie them to the manger and diet their greedy panches, otherwise they wil sur<g ref="char:EOLhyphen"/>feit. What, shal I say? wealth makes them lauish, wit knauish, beautie effeminate, pouertie deceitfull, and deformitie vglie. Therefore of me take this counsell
+<q>
+                  <lg>
+                     <l>Esteeme of men as of a broken Reed,</l>
+                     <l>Mistrust them still, and then you wel shall speede.</l>
+                  </lg>
+               </q>
+            </p>
+            <pb facs="tcp:176417:7"/>
+            <p>I pray you then (if this be true, as it truely cannot bee de<g ref="char:EOLhyphen"/>nied) haue not they reason who affirme that a goose standing before a rauenous Fox, is in as good case, as the woman that trusteth to a mans fidelitie: for as the one is sure to loose his head, so the other is most certaine to be bereaued of her good name, if there be any small cause of suspition. The fellow that tooke his wife for his crosse, was an Asse, and so we wil leaue him: for he loued well to sweare on an ale pot, and because his wife, keeping him from his dronken vain, put his nose out of his socket, he thereby was brought into a mad moode, in which he did he could not tell what.</p>
+            <p>When prouender prickes, the iade will winch, but keepe him at a slender ordinarie, and he will be milde ynough. The <hi>Dictators</hi> sonne was cranke as long as his cocke was crow<g ref="char:EOLhyphen"/>ing, but proouing a crauin, hee made his maister hang downe his head.</p>
+            <p>
+               <hi>Thales</hi> was so maried to shamefull lust as hee cared not a straw for lawfull loue, wherby he shewed himselfe to be indued with much vice and no vertue: for a man doth that often times standing, of which he repenteth sitting. The Romain coulde not (as now men cannot) abide to heare women praised, and themselues dispraised, and therfore it is best for men to follow <hi>Alphonso</hi> his rule: let them be deafe and mary wiues, that are blind, so shal they not grieue to heare their wiues commē<g ref="char:EOLhyphen"/>ded nor their monstrous misdoing shall offend their wiues eie<g ref="char:EOLhyphen"/>sight.</p>
+            <p>
+               <hi>Tibullus</hi> setting down a rule for women to follow, might haue proportioned this platform for men to rest in. And might haue said. Euery honest man ought to shun that which detrac<g ref="char:EOLhyphen"/>teth both health and safety from his owne person, and striue to bridle his slanderous tongue. Then must he be modest, &amp; shew his modestie by his vertuous and ciuil behauiours: and not dis<g ref="char:EOLhyphen"/>play his beastlines through his wicked and filthy wordes. For lying lips and deceitful tongues are abhominable before God. It is an easie matter to intreate a Cat to catch a Mouse, and more easie to perswade a desperate man to kil him selfe. What <hi>Nature</hi> hath made, <hi>Art</hi> cannot marre, (and as this surfeiting
+<pb facs="tcp:176417:7"/> louer saith) that which is bred in the bone, will not be brought out of the flesh. If we cloath our selues in sackcloth, and trusse vp our haire in dishclouts, <hi>Venerians</hi> wil neuertheles pursue their pastime. If we hide our breastes, it must be with leather, for no cloath can kéep their long nailes out of our bosomes.</p>
+            <p>We haue rowling eies, and they railing tongues: our eies cause thē to look lasciuiously, &amp; why? because they are geuen to lecherie. It is an easie matter to finde a staffe to beate a Dog, and a burnt finger giueth sound counsel. If men would as well imbrace counsel as they can giue it, <hi>Socrates</hi> rule wold be bet<g ref="char:EOLhyphen"/>ter follewed. But let <hi>Socrates,</hi> heauen and earth say what they wil, <hi>Mans face is worth a glasse of dissembling water:</hi> and therfore to conclude with a prouerbe, <hi>Write euer, and yet ne<g ref="char:EOLhyphen"/>uer write ynough of mans falshoode,</hi> I meane those that vse it. I would that ancient writers would as well haue busi<g ref="char:EOLhyphen"/>ed their heades about disciphering the deceites of their owne Sex, as they haue about setting downe our follies: and I wold some would call in question that nowe, which hath euer bene questionlesse: but sithence all their wittes haue bene bent to write of the contrarie, I leaue them to a contrary vaine, and the surfaiting Louer, who returnes to his discourse of loue.</p>
+            <p>Nowe while this greedye grazer is about his intreatie of loue, which nothing belongeth to our matter: let vs secretlye our selues with our selues, consider howe and in what, they that are our worst enemies, are both inferiour vnto vs, &amp; most beholden vnto our kindenes.</p>
+            <p>The creation of man and woman at the first, hee being for<g ref="char:EOLhyphen"/>med <hi>In principio</hi> of drosse and filthy clay, did so remaine vntil God saw that in him his workmanship was good, and therfore by the transformation of the dust which was loathsome vnto flesh, it became putrified. Then lacking a help for him, GOD making woman of mans fleshe, that she might bee purer then he, doth euidently showe, how far we women are more excel<g ref="char:EOLhyphen"/>lent then men. Our bodies are fruitefull, wherby the world encreaseth, and our care wondeful, by which man is preserued. Frō woman sprang mans saluation. A woman was the first that beleeued, &amp; a woman likewise the first that repēted of sin.
+<pb facs="tcp:176417:8"/> In women is onely true <hi>Fidelity:</hi> (except in her) there <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#uom" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n<g ref="char:EOLhyphen"/>stancie, and without her no <hi>Huswifery.</hi> In the time of their sicknes we cannot be wanted, &amp; whē they are in health we for thē are most necessary. They are cōforted by our means: they nourished by the meats we dresse: their bodies fréed from dis<g ref="char:EOLhyphen"/>eases by our cleanlines, which otherwise would surfeit vnrea<g ref="char:EOLhyphen"/>sonably through their own noisomnes. Without our care they lie in their beds as dogs in litter, &amp; goe like lowsie Mackarell swimming in the heat of sommer. They loue to go hansomly in their apparel, and reioice in the pride thereof, yet who is the cause of it, but our carefulnes, to sée y<seg rend="sup">t</seg> euery thing about thē be curious. Our virginitie makes vs vertuous, our cōditions curteous, &amp; our chastitie maketh our truenesse of loue mani<g ref="char:EOLhyphen"/>fest. They confesse we are necessarie, but they would haue vs likewise euil. That they cannot want vs I grant: yet euill I denie: except onely in the respect of man, who (hating all good things, is onely desirous of that which is ill, through whose de<g ref="char:EOLunhyphen"/>sire, in estimation of conceit we are made ill. But least some shuld snarle on me, barking out this reason: that <hi>none is good but God, and therfore women are ill.</hi> I must yeeld that in y<seg rend="sup">t</seg> respect we are il, &amp; affirm that men are no better, seeing we are so necessarie vnto them. It is most certain, that if we be il, they are worse: for <hi>Malum malo additum efficit malum peius:</hi> &amp; they that vse il worse then it shold be, are worse then the il. And therefore if they wil correct <hi>Magnificat,</hi> they must first learn the signification therof. That we are liberal, they wil not deny sithence that many of them haue <hi>(ex confessio)</hi> receiued more kindnes in one day at our hands, thē they can repay in a whole yeare: &amp; some haue so glutted thēselues with our liberality as they cry <hi>No more.</hi> But if they shal auow y<seg rend="sup">t</seg> women are fooles, we may safely giue thē the lie: for my selfe haue heard some of them confesse that we haue more wisdome then need is, &amp; ther<g ref="char:EOLunhyphen"/>fore no fooles: &amp; they lesse thē they shold haue, &amp; therfore fooles. It hath bene affirmed by some of their sex, that to shun a show<g ref="char:EOLhyphen"/>er of rain, &amp; to know the way to our husbands bed is wisedome sufficient for vs womē: but in this yeare of 88. men are grown so fantastical, that vnles we can make them fooles, we are ac<g ref="char:EOLhyphen"/>counted
+<pb facs="tcp:176417:8"/> vnwise. And now (seeing I speake to none but to you which are of mine owne Sex,) giue me leaue like a scoller to prooue our wisdome more excellēt then theirs, though I neuer knew what sophistry ment. Ther is no wisdome but it comes by grace, this is a principle, &amp; <hi>Contra principiū non est dis<g ref="char:EOLhyphen"/>putandū:</hi> but grace was first giuen to a woman, because to our lady: which premises cōclude y<seg rend="sup">t</seg> women are wise. Now <hi>Primū est optimū,</hi> &amp; therefore women are wiser then men. That we are more witty which comes by nature, it cānot better be proo<g ref="char:EOLunhyphen"/>ued, then y<seg rend="sup">t</seg> by our answers, men are often drouen to <hi>Nō plus,</hi> &amp; if their talk be of worldly affaires, with our resolutions they must either rest satisfied, or prooue thēselues fooles in the end.</p>
+            <p>It was my chance to hear a prety story of two wise mē who (being cosen germane to y<seg rend="sup">e</seg> town of <hi>Gotam</hi>) prooued thēselues as very asses, as they wer fooles: &amp; it was this. The stelth of a ring out of a wise mans chāber, afflicted y<seg rend="sup">e</seg> loosers mind, with so grieuous passions, as he could take no rest, til he went to aske a friends counsel, how he might recouer his losse. Into whose presence being once entered, his clothes vnbuttened, made pas<g ref="char:EOLunhyphen"/>sage for his friends eiesight vnto his bosome: who séeing him in such a taking, iudging by his looks y<seg rend="sup">t</seg> some qualme had risen on his stomack, the extremity wherof might make his head to ake, offered him a kertcher. This distressed man halfe besides himselfe, howled bitterly y<seg rend="sup">t</seg> he did mistake his case, &amp; falling in<g ref="char:EOLhyphen"/>to a rauing vain, began to curse y<seg rend="sup">e</seg> day of his birth, &amp; the <hi>Desti<g ref="char:EOLhyphen"/>nies</hi> for suffering him to liue. His fellow wise-man, mistaking this fit, fearing y<seg rend="sup">t</seg> some deuil had possessed him, begā to betake him to his héeles: but being stopped frō running by his cōpa<g ref="char:EOLhyphen"/>nion, did likewise ban y<seg rend="sup">e</seg> cause of this suddain change, &amp; the mo<g ref="char:EOLunhyphen"/>tion that mooued the other to enter his presence: yet seing how daungerously he was disturbed, &amp; knowing that by no meanes he could shun his company, calling his wittes together (which made him forget his passion) he demanded y<seg rend="sup">e</seg> cause of y<seg rend="sup">e</seg> others griefe: who taking a stoole &amp; a cushion sate downe and decla<g ref="char:EOLhyphen"/>red that he was vndon<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap> through the losse of a ring which was stolen out of his window: further saying. Sir, is it not best for mee to goe to a Wise-woman to knowe of her what is
+<pb facs="tcp:176417:9"/> become of my ring? The other answering affirmatiuely, asked this: if he knewe anye? betweene whom, many wise women reckoned, they both went together for company, wher we wil leaue them.</p>
+            <p>Now I pray you tell me your fancie, were not these men very wise, but especially did they not cunningly display their wisedome by this practise? Sithence that they hope to finde that through the wisedome of a woman, which was lost by the folly of a man. Wel, seeing according to the old prouerb: <hi>The wit of a woman is a great matter:</hi> let men learne to be wiser or account them selues fooles: for they know by pactize that we are none.</p>
+            <p>Now sithence that this ouercloied and surfeiting louer lea<g ref="char:EOLhyphen"/>ueth his loue, and comes with a fresh assault against vs womē let vs arm our selues with patience &amp; sée the end of his tongue which explaineth his surfeit. But it was so lately printed, as y<seg rend="sup">t</seg> I shold do the Printer iniurie should I recite but one of them, and therfore referring you to <hi>Boke his surfeit in loue,</hi> I come to my matter. If to inioy a woman be to catch the Deuill by the foote, to obtaine the fauour of a man is to holde fast his damme by the middle: whereby the one may easily breake a<g ref="char:EOLhyphen"/>way, and the other cannot go without he carries the man with him.</p>
+            <p>The properties of the Snake and of the Eele are, the one to sting, and the other not to be held: but mens tongues sting against nature, and therefore they are vnnaturall. Let vs bear with them as much as may be, and yeeld to their willes more then is conuenient: yet if we cast our reckoning at the end of the yeare, wee shall finde that our losses excéede their gaines. which are innumerable. The propertie of the <hi>Camelion</hi> is to change himselfe: But man alwaies remaineth at one stay, and is neuer out of the predicamentes of <hi>Dishonestie</hi> and <hi>vnconstancie.</hi> The stinging of the <hi>Scorpion</hi> is cured by the <hi>Scorpion,</hi> wherby it seemes that there is some good nature in them. But men neuer leaue stinging till they see the death of <hi>honestie.</hi> The danger of prickes is shunned, by gathering ro<g ref="char:EOLhyphen"/>ses gloue fifted: and the stinging of <hi>Bees</hi> preuented through a
+<pb facs="tcp:176417:9"/> close hood. But naked <hi>Dishonestie</hi> and bare inconstancie are alwaies plagued through their owne follie.</p>
+            <p>If mens solly be so vnreasonable as it will striue against <hi>Nature,</hi> it is no matter though she rewardes them with cros<g ref="char:EOLhyphen"/>ses contrary to their expecations. For if <hi>Tom foole</hi> will pre<g ref="char:EOLhyphen"/>sume to ride on <hi>Alexanders</hi> horse, he is not to be pittied thogh he get a soule knocke for his labour. But it seemes the Gentle<g ref="char:EOLhyphen"/>man hath had great experience of <hi>Italian</hi> Curtizans, wherby his wisedome is shewed. For <hi>Experientia praestantior arte:</hi> and hee that hath <hi>Experience</hi> to prooue his case, is in better case then they that haue al vnexperienced book cases to defend their titles.</p>
+            <p>The smooth speeches of men are nothing vnlike the vani<g ref="char:EOLhyphen"/>shing cloudes of the <hi>Aire,</hi> which glide by degrees from place to place, till they haue filled themselues with raine, when breaking, they spit foorth terrible showers: so men gloze, till they haue their answeres, which are the end of their trauell, &amp; then they bid <hi>Modestie</hi> adue, and entertaining <hi>Rage,</hi> fal a rai<g ref="char:EOLhyphen"/>ling on vs which neuer hurt them. The rancknesse of grasse causeth suspition of the serpents lurking, but his lying in the plaine path at the time when <hi>Woodcockes</hi> shoote, maketh the pacient passionate through his sting, because no such ill was suspected. When men protest secrecie most solemnly, beleeue them lest, for then surely there is a tricke of knauery to be dis<g ref="char:EOLhyphen"/>carded, for in a Friers habite an olde Fornicator is alwaies clothed.</p>
+            <p>It is a wonder to see how men can flatter themselues with their own conceites: For let vs looke, they wil straight affirm that we loue, and if then <hi>Lust</hi> pricketh them, they will sweare that <hi>Loue</hi> stingeth vs: which imagination onely is sufficient to make them assay the scaling of halfe a dozen of vs in one night, when they will not stick to sweare that if they should be denied of their requestes, death must needes follow. Is it any marueil though they surfeit, when they are so greedy, but is it not pittie that any of them should perish, which will be so soon killed with vnkindnes? Yes truly. Well, the onset giuen, if we retire for a vantage, they will straight affirme that they
+<pb facs="tcp:176417:10"/> haue got the victorie. Nay, some of them are so carried away with conceite, that shameles they wil blaze abroad amōg their companions, that they haue obteined the loue of a woman, vnto whom they neuer spake aboue once, if that: Are not these froward fellowes, you must beare with them, because they dwell far from lying neighboures. They will say <hi>Mentiri non est nostrum,</hi> and yet you shall sée true tales come from them, as wilde géese flie vnder <hi>London</hi> bridge. Their faw<g ref="char:EOLhyphen"/>ning is but flattery: their faith falshoode: their faire wordes allurements to destruction: and their large promises tokens of death, or of euils worse then death. Their singing is a bayte to catch vs, and their playinges, plagues to torment vs: &amp; ther<g ref="char:EOLhyphen"/>fore take héede of them, and take this as an <hi>Axiom</hi> in Logick and a <hi>Maxime</hi> in the Law, <hi>Nulla fides hominibus.</hi> Ther are three accidents to men, which of al are most vnseperable. <hi>Lust Deceit,</hi> and <hi>malice.</hi> Their glozing tongues, the preface to the execution of their vilde mindes, and their pennes the bloo<g ref="char:EOLhyphen"/>dy executioners of their barbarous maners. A little gaule ma<g ref="char:EOLhyphen"/>keth a great deale of sweet, sower: and a slaunderous tongue poysoneth all th<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good partes in man.</p>
+            <p>Was not the follie of <hi>Vulcan</hi> worthy of <hi>Venus</hi> floutes, when she tooke him with the maner, wooing <hi>Briceris?</hi> And was it not the flatterye of <hi>Paris</hi> which intysed <hi>Hellen</hi> to falshood? Yes trulie: and the late Surfeiter his remembrance in calling his pen frō raging against reason: sheweth that he is not quite without flatterie, for hee putteth the fault in his pen, when it was his passion that deserued reproofe. The loue of <hi>Hipsicra<g ref="char:EOLhyphen"/>tes</hi> and <hi>Panthea,</hi> the zeale of <hi>Artemisia</hi> and <hi>Portia,</hi> the affec<g ref="char:EOLhyphen"/>tion of <hi>Sulpitia</hi> and <hi>Aria,</hi> the true fancie of <hi>Hipparchia</hi> and <hi>Pisca,</hi> the louing passions of <hi>Macrina</hi> &amp; of the wife of <hi>Paudo<g ref="char:EOLunhyphen"/>crus</hi> (al manifested in his Surfeit) shal condēne the vndiscréet<g ref="char:EOLhyphen"/>nes of mens minds: whose hearts delight in nought, saue that only which is contrary to good. Is it not a foolish thing to bee sorry for things vnrecouerable? Why then shold <hi>Sigismundus</hi> answer be so descāned vpon, seeing her husband was dead, &amp; she therby frée for any man. Of y<seg rend="sup">e</seg> aboundance of the hart, y<seg rend="sup">e</seg> mouth speaketh, which is verified by y<seg rend="sup">e</seg> railing kind of mans writing.
+<pb facs="tcp:176417:10"/> Of al kind of voluptuousnes, they affirm <hi>Lechery</hi> to be y<seg rend="sup">e</seg> chée<g ref="char:EOLunhyphen"/>fest, &amp; yet some of thē are not ashamed to confesse publiquely, that they haue surfeited therwith. It defileth the body, &amp; makes it stink, &amp; men vse it: I maruel how we women can abide them but y<seg rend="sup">t</seg> they delude vs, as (they say) we deceiue thē w<seg rend="sup">t</seg> perfumes.</p>
+            <p>
+               <hi>Voluptuousnes</hi> is a strong beast, and hath many instru<g ref="char:EOLhyphen"/>ments to draw to <hi>Lust:</hi> but men are so forward of themselues thereto, as they neede none to haile them. His court is alrea<g ref="char:EOLhyphen"/>dy so full with them, that he hath more néede to make stronger gates to keepe them out, then to set them open that they may come in, except he wil be pulled out by y<seg rend="sup">e</seg> eares out of his king<g ref="char:EOLunhyphen"/>dome. I woulde the abstinence of King <hi>Cyrus, Zenocrates, Caius Gracchus, Pompeius</hi> and of <hi>Francis Sforce</hi> Duke of <hi>Millaine,</hi> (recited in <hi>Boke his Surfeit in loue</hi>) might be pre<g ref="char:EOLhyphen"/>sidents for men to followe, and I warrant you then we should haue no surfeiting. I pray God that they may mend: but in the meane time, let them be sure that rashnes bréedes repentance, and treacherous hearts, tragical endes: False <hi>Flattery</hi> is the messenger of foule <hi>Folly,</hi> and a slaunderous tongue, the instru<g ref="char:EOLunhyphen"/>ment of a dissembling heart.</p>
+            <p>I haue set down vnto you (which are of mine owne Sex) the subtil dealings of vntrue meaning men: not that you should contemne al men, but to the end that you may take héed of the false hearts of al, &amp; stil reprooue the flattery which remaines in all: for as it is reason that the Hennes should be serued first, which both lay the egs, &amp; hatch the chickins: so it were vnrea<g ref="char:EOLhyphen"/>sonable that the cockes which tread them, should be kept clean without meat. As men are valiant, so are they vertuous: and those that are borne honorably, cannot beare horrible dissem<g ref="char:EOLhyphen"/>bling heartes. But as there are some which cannot loue harte<g ref="char:EOLunhyphen"/>ly, so there are many who lust vncessantly, &amp; as many of them wil deserue wel, so most care not how if they speed so they may get our company. Wherin they resemble <hi>Entrie,</hi> who will be contented to loose one of his eies that another might haue both his pulled out. And therefore thinke well of as many as you may, loue them that you haue cause, heare euery thing that they say, (&amp; affoord them noddes which make themselues
+<pb facs="tcp:176417:11"/> noddies) but beleeue very little therof or nothing at all, and hate all those, who shall speake any thing in the dispraise or to the dishonor of our sex.</p>
+            <p>Let the luxurious life of <hi>Heliogabalus,</hi> the intēperate de<g ref="char:EOLhyphen"/>sires of <hi>Commodus</hi> and <hi>Proculùs,</hi> the damnable lust of <hi>Chil<g ref="char:EOLunhyphen"/>pericus</hi> and <hi>Xerxces, Boleslaus</hi> violent rauishings, and the vnnaturall carnall appetite of <hi>Sigismundus Malotesta,</hi> be ex<g ref="char:EOLhyphen"/>amples sufficiently probable to perswade you, that the hearts of men are most desirous to excell in vice. There were many good lawes established by the <hi>Romanes</hi> &amp; other good kinges yet they coulde not restraine men from lecherie: and there are terrible lawes alotted in <hi>England</hi> to the offenders therein, all which will not serue to restrain man.</p>
+            <p>The Surfeiters phisike is good could he and his compani<g ref="char:EOLhyphen"/>ons follow it: but when the Fox preacheth, let the geese take heede, it is before an execution. <hi>Fallere fallentem non est fraus,</hi> and to kill that beast, whose propertie is onely to slay, is no sin: if you wil please men, you must follow their rule, which is to flatter: for <hi>Fidelitie</hi> and they are vtter enemies. Things far fetched are excellent, and that experience is best which cost most: Crownes are costly, and that which cost many crownes is wel worth God thank you, or els I know who hath spēt his labour and cost, foolishly. Then if any man geueth such deare counsell gratfuly, are not they fooles which will refuse his li<g ref="char:EOLhyphen"/>beralitie. I know you long to heare what that counsel should be, which was bought at <gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o hie a price: Whererfore if you listen, the Surfeitert his pen with my hande shall foorthwith shew you.</p>
+            <p>At the end of mens faire promises there is a <hi>Laberinth,</hi> &amp; therefore euer hereafter stoppe your eares when they protest friendship, lest they come to an end before you are aware wher<g ref="char:EOLhyphen"/>by you fal without redemption. The path which leadeth ther<g ref="char:EOLhyphen"/>vnto, is <hi>Mans wit,</hi> and the miles ends are marked with these trees, <hi>Follie, Vice, Mischiefe, Lust, Deceite,</hi> &amp; <hi>Pride.</hi> These to deceiue you shall bee clothed in the raimentes of <hi>Fancie, Vertue, Modestie, Loue, Truemeaning,</hi> and <hi>Handsomnes.
+<pb facs="tcp:176417:11"/> Folly</hi> wil bid you welcome on your way, &amp; tel you his fancie, concerning the profite which may come to you by this iorney, and direct you to <hi>Vice</hi> who is more craftie. He with a compa<g ref="char:EOLunhyphen"/>ny of protestations will praise the vertues of women, shewing how many waies men are beholden vnto vs: but our backes once turned, he fals a railing. Then <hi>Mischiefe</hi> he pries into euery corner of vs, seeing if he can espy a cranny, that getting in his finger into it, he may make it wide enough for his tong to wag in. Now being come to <hi>Lust:</hi> he will fall a railing on lasciuious lookes, &amp; wil ban <hi>Lecherie,</hi> &amp; with the Collier will say, the deuill take him though he neuer means it. <hi>Deceit</hi> will geue you faire words, &amp; pick your pockets: nay he will pluck out your hearts, if you be not wary. But when you heare one cry out against lawnes, drawn-works, Periwigs, against the attire of Curtizans. &amp; generally of the pride of al women: then know him for a Wolfe clothed in sheepes raiment, and be sure you are fast by the lake of destruction. Therfore take héed of it, which you shall doe, if you shun mens flattery, the forerunner of our vndoing. If a iade be galled, wil he not winch? and can you finde fault with a horse that springeth when he is spurred? The one will stand quietly when his backe is healed, and the other go wel when his smart ceaseth. You must beare with the olde Louer his surfeit, because hee was diseased when he did write it, and peraduenture hereafter, when he shal be well amended, he wil repent himselfe of his slanderous speaches a<g ref="char:EOLhyphen"/>gainst our sex, and curse the dead man whith was the cause of it, and make a publique recantation: For the faltering in his speach at the latter end of his book affirmeth, y<seg rend="sup">t</seg> already he half repenteth of his bargaine, &amp; why? because his melodie is past: but beleeue him not, thogh he shold out swear you, for althogh a iade may be still in a stable when his gall backe is hea<g ref="char:EOLhyphen"/>led, yet hee will showe himselfe in his kind when he is traueiling: and mans flattery bites secretly, from which I pray God keepe you and me too.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:176417:12"/>
+            <head>A soueraigne Salue, to cure the late Surfeiting Louer.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">I</seg>F once the heat, did sore thee beat,</l>
+               <l>of foolish loue so blind:</l>
+               <l>Somtime to sweat, somtime to freat</l>
+               <l>as one bestraught of minde:</l>
+            </lg>
+            <lg>
+               <l>If wits weare take, in such a brake,</l>
+               <l>that reason was exilde:</l>
+               <l>And woe did wake, but could not slake</l>
+               <l>thus loue had thee beguilde:</l>
+            </lg>
+            <lg>
+               <l>If any wight, vnto thy sight,</l>
+               <l>all other did excell:</l>
+               <l>whose beautie bright, constrained right</l>
+               <l>thy heart with her to dwell:</l>
+            </lg>
+            <lg>
+               <l>If thus thy foe, opprest thee so,</l>
+               <l>that backe thou could not start:</l>
+               <l>But still with woe, did surfeit thoe,</l>
+               <l>yet thankles was thy smart:</l>
+            </lg>
+            <lg>
+               <l>If nought but paine, in loue remaine,</l>
+               <l>at length this counsell win,</l>
+               <l>That thou refrain, this dangerous pain,</l>
+               <l>and come no more therein.</l>
+            </lg>
+            <lg>
+               <l>And sith the blast, is ouerpast,</l>
+               <l>it better were certaine:</l>
+               <l>From flesh to fast, whilst life doth last,</l>
+               <l>then surfeit so againe,</l>
+               <l>Viuendo disce.</l>
+            </lg>
+            <closer>
+               <signed>Io. A.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:176417:12"/>
+            <head>Eiusdem ad Lectorem, de Authore.</head>
+            <l>THough, sharpe the seede, by Anger sowen</l>
+            <l>we all (almost) confesse:</l>
+            <l>And hard his hap we aye account,</l>
+            <l>who Anger doth possesse:</l>
+            <l>Yet haplesse shalt thou (Reader) reape,</l>
+            <l>such fruit from ANGERS soile.</l>
+            <l>As may thee please, and ANGER ease</l>
+            <l>from long and wearie toile.</l>
+            <l>Whose paines were tooke for thy behoofe,</l>
+            <l>to till that cloddye ground,</l>
+            <l>Where scarce no place, free from disgrace,</l>
+            <l>of female Sex, was found.</l>
+            <l>If ought offend, which she doth send,</l>
+            <l>impute it to her moode.</l>
+            <l>For ANGERS <gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>age must that asswage,</l>
+            <l>as wel is vnderstoode.</l>
+            <l>If to delight, ought come in sight,</l>
+            <l>then deeme it for the best.</l>
+            <l>So you your wil, may well fulfill,</l>
+            <l>and she haue her request.</l>
+            <closer>
+               <signed>Io▪ A.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>A fault escaped in C. the first Page, 7 lines from the end.</p>
+            <p>For: it became putrified.</p>
+            <p>Read: it became purified.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
